@@ -9,8 +9,9 @@ additional tweaking.
 
 ## Screenshots
 
-![Helix in ElasticDog](static/images/helix.png)
 ![WezTerm in ElasticDog](static/images/wezterm.png)
+![Helix editing Rust in ElasticDog](static/images/helix-rust.png)
+![Helix editing HTML in ElasticDog](static/images/helix-html.png)
 
 The font used for the above screenshots is
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
