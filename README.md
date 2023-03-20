@@ -7,6 +7,16 @@ additional tweaking.
 
 [Zaiste's Emacs Theme]: https://github.com/zaiste/zaiste-emacs-theme
 
+## Screenshots
+
+![Helix in ElasticDog](static/images/helix.png)
+![WezTerm in ElasticDog](static/images/wezterm.png)
+
+The font used for the above screenshots is
+[JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+
+## Color Palette
+
 | Terminal Name             | Color                                                     | HEX     | RGB                |
 | ------------------------- | --------------------------------------------------------- | ------- | ------------------ |
 | foreground                | ![#393f46](https://via.placeholder.com/35/393f46/?text=+) | #393f46 | rgb(57, 63, 70)    |
