@@ -72,7 +72,7 @@
 
 "namespace" = "blue"
 
-"special" = { fg = "base05", bg = "base02" }
+"special" = { fg = "yellow", modifiers = ["bold"] }
 
 "markup.heading" = { fg = "magenta", modifiers = ["bold"] }
 "markup.heading.marker" = { fg = "magenta", modifiers = ["bold"] }
