@@ -118,7 +118,7 @@
 "ui.cursor.normal" = { fg = "base01", bg = "base04" }
 "ui.cursor.insert" = { fg = "base01", bg = "base04" }
 "ui.cursor.select" = { fg = "base01", bg = "base04" }
-"ui.cursor.match" = { modifiers = ["bold"] }
+"ui.cursor.match" = { fg = "base06", bg = "base01", modifiers = ["bold"] }
 "ui.cursor.primary" = { fg = "base00", bg = "light-blue" }
 "ui.cursor.primary.normal" = { fg = "base00", bg = "light-blue" }
 "ui.cursor.primary.insert" = { fg = "base00", bg = "light-blue" }
